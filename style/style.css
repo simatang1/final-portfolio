@@ -525,6 +525,7 @@ color: rgb(230, 178, 7);
 }
 
 
+
 .about-body{
     margin-top: auto;
     margin-bottom: auto;
@@ -669,7 +670,7 @@ color: rgb(230, 178, 7);
 /* services section end */
 /* skills section start */
 .skill1-sec{
-    background-color: #0f0f0f;
+    background-color: #080808;
     margin-top: -100px;
     height: 900px;
     
@@ -895,6 +896,12 @@ color: goldenrod;
         height: 750px;
 
     }
+    .f-style p{
+        font-size: 15px;
+        width: 240px;
+        margin-left: 100px;
+
+    }
     .sima img{
         width: 350px;
         height: 600px;
@@ -906,6 +913,21 @@ color: goldenrod;
        margin-right: 120px;
         
       
+    }
+    .about-body h1{
+        margin-right:20px ;
+    }
+    .about-body h2{
+        margin-right:10px ;
+    }
+    .static1-text{
+        margin-right:130px ;
+    }
+    .wrapper{
+        margin-right:2px ;
+    }
+    .center1{
+        margin-left: 100px;
     }
     .about .about-body{
         width: 100%;
@@ -945,7 +967,7 @@ color: goldenrod;
        
     }
     .skill1-sec{
-        background-color: #a3a3a3;
+        background-color: #030303;
         margin-top: -100px;
         height: 1500px;
         
